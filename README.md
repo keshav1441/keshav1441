@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Financial Advisory.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning MERN stack and DL.
+🔭 I’m currently working on UrbanAbodes.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning MERN stack and DL.
 
 
 ## 🌐 Socials:
